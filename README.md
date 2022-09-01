@@ -43,29 +43,24 @@ IFP School, MOOC Supported by Total Foundation
 
 ## Publications
 											
-Data Publication: WHO Ambient Air quality Analysis (PM2.5 & PM10 Pollutants), June 2022
-
+### Data Publication: WHO Ambient Air quality Analysis (PM2.5 & PM10 Pollutants), June 2022
 •	Analysis and dashboarding using excel on the global ambient air quality of pollutants in major cities around the world. Published in my medium pages.
 
-Data Publication: Marketing Campaign Business Analysis, June 2022
-
+### Data Publication: Marketing Campaign Business Analysis, June 2022
 •	Develop business insight and action driven information for a marketing campaign on 5 products across 7 countries. Codes are saved on my github and analysis on my medium.
 
-Conference Paper: Act together to build a positive safety and health culture, April 2022
-
+### Conference Paper: Act together to build a positive safety and health culture, April 2022
 •	Authored a paper at the World Safety Day 2022 conference in Lagos HQ.
 
-Dissertation; Measurement System Analysis (Gage R&R), Dec 2016
-
+### Dissertation; Measurement System Analysis (Gage R&R), Dec 2016
 Master’s degree Student, University of Port Harcourt
 •	Evaluating the accuracy of measuring systems which include equipment, procedures and technicians and their inter-relationship
 
-Dissertation; Pipeline Vandalization Security Alarm System, Dec 2009
-
+### Dissertation; Pipeline Vandalization Security Alarm System, Dec 2009
 Bachelor’s degree Student, University of Benin
 •	Design of an electric circuit that detect pipeline vandalization
 
-Conference Paper; Planning and Controlling Offshore Lifting Operations, April 2014
+### Conference Paper; Planning and Controlling Offshore Lifting Operations, April 2014
 
 Safety & Environment Engineer, 2nd Annual Offshore Support Vessel Forum Abu Dhabi
 •	Authored a paper at the Abu Dhabi offshore conference on planning lifting operation.
