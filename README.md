@@ -104,7 +104,7 @@ Safety & Environment Engineer, 2nd Annual Offshore Support Vessel Forum Abu Dhab
  
 ## Work History
 											
-Process Safety Engineer / Data Analyst, Sterling Oil Exploration & Energy Production,	Feb 2019 – Current
+### Process Safety Engineer / Data Analyst, Sterling Oil Exploration & Energy Production,	Feb 2019 – Current
 
 125mmscf/d LPG/NGL Process Plant Design, Construction & Operation.
 •	Build, produce and maintain operational reporting, visualization (PowerBI) and analytics as required.
@@ -124,7 +124,7 @@ Process Safety Engineer / Data Analyst, Sterling Oil Exploration & Energy Produc
 •	Coordinate environmental baseline sampling data collection and use data analytical skills in comparative analysis during evaluation studies
 
 
-Data Analyst / Safety & Environment Manager, Sarens Buildwell Nigeria, 	Oct 2015 – Jan 2019
+### Data Analyst / Safety & Environment Manager, Sarens Buildwell Nigeria, 	Oct 2015 – Jan 2019
 
 Heavy Lifting and Oil & Gas Equipment Logistics
 •	Focal point for all company’s SHEQ related activities, including representations at meetings with clients and regulatory bodies; both national and international environmental and health bodies. 
@@ -140,7 +140,7 @@ Heavy Lifting and Oil & Gas Equipment Logistics
 •	Review where necessary Contractors work method statement, JHA, HSSE Plans, Bridging document, HSE Cases, Work procedures and develop HSE Practices/behaviors required during operation.
 
 
-QHSE Data Analyst, Ciscon Oil Services, Port Harcourt, Nigeria, Jan 2014 – Sep 2015
+### QHSE Data Analyst, Ciscon Oil Services, Port Harcourt, Nigeria, Jan 2014 – Sep 2015
 
 Total Akpo Field Deepwater Drilling & Completions
 •	Assisted the QHSE Manager in promoting basic safety awareness in the workplace; handled simple risk prevention and control activities (e.g fire drills) to increase employees understanding of safety risk 
@@ -152,7 +152,7 @@ Total Akpo Field Deepwater Drilling & Completions
 •	Collected Data from clients on feedback and service delivery, analyze data and present to management
 
 
-Graduate Trainee, JC International, Port Harcourt, Nigeria, Jan 2010 – Dec 2013
+### Graduate Trainee, JC International, Port Harcourt, Nigeria, Jan 2010 – Dec 2013
 
 Transocean Offshore Rigs (Baltic, Mangellan, Rig 135, Sedneth 701, Sedco 702)
 •	Maintained a database spreadsheet for all gauges, fire extinguishers, gas detectors and alarms, lifting equipment, first aid boxes and ensured calibration and/or inspection are performed when due
